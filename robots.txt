@@ -1,0 +1,4 @@
+# https://www.robotstxt.org/robotstxt.html
+User-Agent: *
+Allow: /
+Sitemap: https://https://codewizard337.github.io/anafnaufalian/sitemap.xml
